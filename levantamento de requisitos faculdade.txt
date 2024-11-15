@@ -1,0 +1,57 @@
+1. Quais informações sobre os alunos precisamos registrar?
+
+Nome, data de nascimento, matrícula,rg, cpf, email e curso.
+
+
+
+2. Quais dados dos professores precisamos guardar?
+
+Nome, CPF, telefone, e-mail e disciplinas que eles ensinam.
+
+
+
+3. Que informações precisamos sobre cada curso?
+
+Nome do curso, duração e lista de disciplinas.
+
+
+
+4. O que precisamos registrar sobre cada disciplina?
+
+Nome da disciplina, carga horária e em qual curso ela faz parte.
+
+
+
+5. Vamos precisar registrar as notas dos alunos?
+
+Sim, precisamos das notas por disciplina.
+
+
+
+6. Precisamos controlar as faltas dos alunos?
+
+Sim, precisamos armazenar o número de faltas por disciplina.
+
+
+
+7. Como organizaremos as turmas?
+
+As turmas serão organizadas por curso e semestre.
+
+
+
+8. Precisamos registrar os horários das aulas?
+
+Sim, para saber os horários e períodos das aulas de cada turma.
+
+
+
+9. Um professor pode dar mais de uma disciplina?
+
+Sim, e cada disciplina deve ter um professor responsável.
+
+
+
+10. Precisamos registrar o status de matrícula dos alunos (ativo, inativo, concluído, etc.)?
+
+Sim, é importante armazenar o status da matrícula para saber se o aluno está ativo, inativo, ou se já concluiu o curso.
