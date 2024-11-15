@@ -54,6 +54,8 @@ ________________________________________________________________________________
 
 <h1>Modelo físico:</h1>
 
+~~~SQL
+
 create database sistema_faculdade;
 
 use sistema_faculdade;
@@ -218,4 +220,6 @@ values
 
 select * from tbl_alunos;
 select * from tbl_endereco_alunos;
+
+~~~
 
