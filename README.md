@@ -1,5 +1,5 @@
 <h1>Levantamento de Requisitos</h1>
-________________________________________________________
+_____________________________________________
 
 1. Quais informações sobre os alunos precisamos registrar?
 
